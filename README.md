@@ -26,4 +26,4 @@ It allows users to add and delete daily tasks quickly.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/TodoApp.git
+   git clone https://tooddoo-app.netlify.app/
